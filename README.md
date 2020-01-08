@@ -1,4 +1,4 @@
-# While the original repository works in Python 2.x, the code in this repository works in Python 3.x.
+# While the original repository works in Python 2.x, \n the code in this repository works in Python 3.x.
 ***
 :trophy:News: **We won the VOT-18 real-time challenge**
 
